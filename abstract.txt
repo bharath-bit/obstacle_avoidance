@@ -1,0 +1,7 @@
+obstacle avoidance robot is a 4 wheeled robot
+used to detect and obstacle using ultrasonic sensor
+and over come the obstacle.
+we know the speed of the ultrasonic waves and we will know the 
+time at wich it bounces back from the obstacle from these data we will find out the 
+distance travelled.
+we used a servo motor to rotate the ultrasonic sensor in 180 degrees
